@@ -1,5 +1,5 @@
 # Bill-Split
-Bill Split project in [jQuery](https://jquerymobile.com/), node.js([nodemone](https://www.npmjs.com/package/nodemon)) and Cordova - October,2020
+Bill Split project in [jQuery](https://jquerymobile.com/), node.js([nodemone](https://www.npmjs.com/package/nodemon)) and [Cordova](https://cordova.apache.org/) - October,2020
 
 ## For Run this Files
 
